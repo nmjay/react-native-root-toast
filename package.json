@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "github:nmjay/react-native-root-siblings#9cd2e112e5668173c9d98dc6dace6fc3b029274b",
+        "react-native-root-siblings": "https://github.com/nmjay/react-native-root-siblings.git#master",
         "prop-types": "^15.5.10"
     }
 }
